@@ -1,8 +1,13 @@
 
 ## **✨ Features**
 - [x] 1. **DDOS Method**
-- [x] 2. **IP Finder**
+- [x] 2. **IP Finder** (with minecraft logs)
 - [x] 3. **Ports Lookup**
+- [x] 4. **Logs Compressor** (only for .log/.txt) 
+
+## **👀 Soon**
+
+- Add Fivem db/Logs On IP Finder
 
 ## **📋 Requirements**
 
