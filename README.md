@@ -6,7 +6,7 @@
 
 ## **📋 Requirements**
 
-- Python version 3.11.5 ([Click here](https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe))
+- Python version 3.12.4 ([Click here](https://www.python.org/ftp/python/3.12.4/python-3.12.4-amd64.exe))
 
 ## **🛠️ Installation**
 
