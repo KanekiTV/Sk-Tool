@@ -32,4 +32,7 @@ To install Sk-Tool, follow these steps:
 4. Open Start.bat
 ```
 ```
-5. Enjoy !
+5. Choose Language 
+```
+```
+6. Enjoy !
