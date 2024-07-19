@@ -1,2 +1,2 @@
 @echo off
-cmd /k py index.py
+py index.py
